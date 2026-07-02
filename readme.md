@@ -85,6 +85,63 @@ CareWatch leverages AI and predictive analytics to transform workforce data into
 
 ### Design
 - Figma
+
+---
+
+# 🚀 Installation
+
+```bash
+git clone https://github.com/yourusername/CareWatch.git
+
+cd CareWatch
+
+npm install
+
+npm run dev
+```
+
+---
+
+# 📂 Folder Structure
+
+```text
+carewatch/
+├── assets/
+├── public/
+├── src/
+│   ├── components/
+│   ├── pages/
+│   ├── layouts/
+│   ├── services/
+│   └── App.jsx
+├── package.json
+└── README.md
+```
+
+---
+
+# 📸 Screenshots
+
+| Dashboard |
+|------------|
+| ![](assets/dashboard.png) |
+
+| Check-ins | Alerts |
+|------------|--------|
+| ![](assets/checkin.png) | ![](assets/alerts.png) |
+
+| Departments | Staff |
+|-------------|-------|
+| ![](assets/departments.png) | ![](assets/staff.png) |
+
+| Analytics | Reports |
+|------------|---------|
+| ![](assets/analytics.png) | ![](assets/reports.png) |
+
+| Settings |
+|----------|
+| ![](assets/settings.png) |
+
 ---
 
 # 🔮 Future Scope
@@ -118,4 +175,4 @@ This project is developed for academic and hackathon purposes.
 
 ---
 
-## ⭐ If you like this project, give it a star on GitHub!''''''''''''''''''''''''''''''''''''''''''
+## ⭐ If you like this project, give it a star on GitHub!
