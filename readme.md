@@ -88,38 +88,6 @@ CareWatch leverages AI and predictive analytics to transform workforce data into
 
 ---
 
-# 🚀 Installation
-
-```bash
-git clone https://github.com/yourusername/CareWatch.git
-
-cd CareWatch
-
-npm install
-
-npm run dev
-```
-
----
-
-# 📂 Folder Structure
-
-```text
-carewatch/
-├── assets/
-├── public/
-├── src/
-│   ├── components/
-│   ├── pages/
-│   ├── layouts/
-│   ├── services/
-│   └── App.jsx
-├── package.json
-└── README.md
-```
-
----
-
 # 📸 Screenshots
 
 | Dashboard |
